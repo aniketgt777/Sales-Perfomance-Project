@@ -101,7 +101,6 @@ The dataset includes the following fields:
 Sales-Performance-Dashboard/
 │── SalesDashboard.pbix
 │── SalesData.csv
-│── dashboard.png
 └── README.md
 ```
 
