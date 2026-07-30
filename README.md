@@ -99,7 +99,8 @@ The dataset includes the following fields:
 
 ```
 Sales-Performance-Dashboard/
-│── SalesDashboard.pbix
+│── Sales Performance Dashboard.pbix
+│── Sales Performance Dashboard.pdf
 │── SalesData.csv
 └── README.md
 ```
