@@ -26,6 +26,7 @@ The dashboard provides a comprehensive view of sales performance by presenting k
 - Power BI
 - Microsoft Excel (CSV)
 - DAX (Data Analysis Expressions)
+- Microsoft PowerPoint
 
 ---
 
